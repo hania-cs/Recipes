@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;1,300;1,400&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+    
+}
+.head-title{
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    text-decoration: underline;
+}
+.main-body{
+    background: url(/home/hania/Downloads/dan-gold-E6HjQaB7UEA-unsplash.jpg);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.menu
+{
+    background-color: transparent;
+    margin-top: 120px;    
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 45px;
+    
+
+}
+ul{
+    list-style: none;
+}
+.food{
+    padding-bottom: 20px;
+}
+.name{
+    text-align: center;
+    text-decoration: underline;
+
+}
